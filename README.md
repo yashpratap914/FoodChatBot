@@ -1,4 +1,7 @@
 # FoodChatBot
+
+![image](https://github.com/user-attachments/assets/e6292415-6931-48c7-ab79-155e1c02043d)
+
 Directory structure
 ===================
 backend: Contains Python FastAPI backend code
